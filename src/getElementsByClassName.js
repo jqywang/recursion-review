@@ -25,4 +25,5 @@ var getElementsByClassName = function(className, body) {
   // your code here
   // use document.body, elements.classlist, element.childnodes
   return allClasses;
+  var two = 2;
 };
